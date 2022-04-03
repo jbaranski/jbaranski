@@ -5,3 +5,4 @@ You've reached my GitHub profile. You can visit my [LinkedIn](https://www.linked
 Check out these tiny projects I worked on in my free time:
  - [WMATA Info](https://wmata.jeffbaranski.com) - Washington, D.C. Metro arrivals and departures (includes a metro system map).
  - [Word Bank](https://word-bank.jeffbaranski.com/) - Expand your vocabulary by jotting down words you come across that you don't know.
+ - [Solving Wordle with Z3: A Case Study](https://www.jeffbaranski.com/wordle/z3-wordle-solver.html) - Z3 SMT solver to simulate and solve Wordle puzzles.
