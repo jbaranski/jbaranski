@@ -1,6 +1,6 @@
 ### Hello!
 
-You've reached my GitHub profile. You can visit my [LinkedIn](https://www.linkedin.com/in/jeffbaranski/) profile or read my [resume](https://www.jeffbaranski.com/resume) to learn more about me (and get my contact information).
+<!-- You've reached my GitHub profile. You can visit my [LinkedIn](https://www.linkedin.com/in/jeffbaranski/) profile or read my [resume](https://www.jeffbaranski.com/resume) to learn more about me (and get my contact information). -->
 
 <!-- Check out these tiny projects I worked on in my free time: -->
 <!-- - [WMATA Info](https://wmata.jeffbaranski.com) - Washington, D.C. Metro arrivals and departures (includes a metro system map). -->
