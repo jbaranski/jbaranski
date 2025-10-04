@@ -1,5 +1,5 @@
 ### Hello!
-
+<!--
 You've reached my GitHub profile. You can visit my [LinkedIn](https://www.linkedin.com/in/jeffbaranski/) profile or read my [resume](https://www.jeffbaranski.com/resume) to learn more about me (and get my contact information).
 
 Check out these personal projects I've worked on over the years:
@@ -22,3 +22,4 @@ Check out these personal projects I've worked on over the years:
 | 2020-03-05 | [WMATA info](https://wmata.jeffsoftware.com/) | Washington, D.C. metro arrivals and departures (includes a metro system map). |
 | 2018-01-28 | [toss-file Visual Studio Code plugin](https://github.com/jbaranski/toss-file) | Copy the current file to new pre-mapped location(s). |
 | 2015-11-11 | [TossFile Sublime Text plugin](https://github.com/jbaranski/TossFile) | Copy the current file or all open files to new pre-mapped location(s). |
+-->
