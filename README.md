@@ -22,9 +22,3 @@ Check out these personal projects I've worked on over the years:
 | 03/05/2020 | [WMATA info](https://wmata.jeffsoftware.com/) | Washington, D.C. metro arrivals and departures (includes a metro system map). |
 | 01/28/2018 | [toss-file Visual Studio Code plugin](https://github.com/jbaranski/toss-file) | Copy the current file to new pre-mapped location(s). |
 | 11/11/2015 | [TossFile Sublime Text plugin](https://github.com/jbaranski/TossFile) | Copy the current file or all open files to new pre-mapped location(s). |
-
-<!-- - [WMATA Info](https://wmata.jeffbaranski.com) - Washington, D.C. Metro arrivals and departures (includes a metro system map). -->
-<!-- - [Solving Wordle with Z3: A Case Study](https://www.jeffbaranski.com/wordle/z3-wordle-solver.html) - Z3 SMT solver to simulate and solve Wordle puzzles. -->
-<!-- - [Predicting MLS Results](https://github.com/jbaranski/mls-hmm) - Using a Hidden Markov model to predict the outcome of MLS soccer matches. -->
-<!-- - [Podcast Automation with AWS](https://www.jeffbaranski.com/podcast-automation) - How I completely automated a sports statistics podcast using AWS. -->
-<!--  - [Word Bank](https://word-bank.jeffbaranski.com/) - Expand your vocabulary by jotting down words you come across that you don't know. -->
